@@ -1,6 +1,6 @@
 ### I'm José Wenned 👋
 
-### Developer Full Stack
+### Developer Backend
 ### Systems Analysis and Development
 
 ##
