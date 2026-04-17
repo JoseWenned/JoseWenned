@@ -1,7 +1,7 @@
 ### Olá, eu sou José Wenned 👋
 
 ### Desenvolvedor full stack
-### cursando análise e desenvvolvimento de sistemas 8 período 
+### cursando análise e desenvolvimento de sistemas 8 período 
 
 ### Sobre mim
 ### Sou desenvolvedor com experiência na construção de APIs escaláveis e integração de sistemas.
